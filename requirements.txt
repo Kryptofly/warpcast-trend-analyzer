@@ -1,0 +1,9 @@
+Flask
+requests
+pandas
+matplotlib
+seaborn
+jinja2
+pdfkit
+nltk
+python-dotenv
